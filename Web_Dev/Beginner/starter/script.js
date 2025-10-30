@@ -1,1 +1,27 @@
-console.log("Welcome to your Beginner Web Dev Challenge!");
+1{background-color: rgb(10, 7, 187); display: inline-block;
+}
+body{background-color: rgb(180, 241, 221);}
+.intro{font-size: 20px; width: 300px;}
+.projects{
+border: 2px solid;
+width: min-content;
+font-size: 12px;
+background-color: lightgrey;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 10px;}
+.circle{display: inline-block;
+    background-color: brown;
+    width:15px
+    border: none;
+    border-radius: 50px;
+    height:20px;
+   position: relative; bottom: 200px;;left: 350px;
+margin: 10px;
+  
+   }
+
+
+.profile-pic{width: 150px; height: 150px;
+    border-radius: 75px; position: relative;
+    left: 20px; top: 30px;}
